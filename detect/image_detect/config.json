@@ -1,0 +1,15 @@
+{
+    "model-path":"../model/yolov5s_quantized.dlc",
+    "runtime":"GPU",
+    "labels":85,
+    "grids":25200,
+    "input-layers":[
+        "images"
+    ],
+    "output-layers":[
+        "/model.24/Concat_3"
+    ],
+    "output-tensors":[
+        "output0"
+    ]
+}
