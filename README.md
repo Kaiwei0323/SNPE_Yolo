@@ -1,4 +1,4 @@
-# SNPE YOLOv5 Setup Guide
+# SNPE YOLO Setup Guide
 
 ## Prerequisites
 
@@ -27,7 +27,6 @@
 - jsoncpp-1.7.4
 - fmt
 - spdlog
-
 ---
 
 ## SNPE SDK Installation
